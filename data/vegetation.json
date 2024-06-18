@@ -1,0 +1,3302 @@
+[
+    {
+        "latitude": [
+            15.95,
+            9.63
+        ],
+        "longitude": [
+            78.94,
+            89.32
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            30.8,
+            11.36
+        ],
+        "longitude": [
+            85.97,
+            76.27
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            13.13,
+            8.71
+        ],
+        "longitude": [
+            86.09,
+            90.87
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            24.34,
+            11.34
+        ],
+        "longitude": [
+            74.95,
+            74
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            10.58,
+            27.66
+        ],
+        "longitude": [
+            87.43,
+            75.68
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            15.51,
+            30.57
+        ],
+        "longitude": [
+            74.06,
+            72.24
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            26.08,
+            27.48
+        ],
+        "longitude": [
+            88.27,
+            89.3
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            22.02,
+            29.48
+        ],
+        "longitude": [
+            80.73,
+            89.75
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.43,
+            14.17
+        ],
+        "longitude": [
+            84.29,
+            78.04
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            16.96,
+            17.44
+        ],
+        "longitude": [
+            76.88,
+            78.92
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.23,
+            29.97
+        ],
+        "longitude": [
+            86.09,
+            71.9
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            10.79,
+            16.29
+        ],
+        "longitude": [
+            73.32,
+            90.91
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            21.81,
+            22.78
+        ],
+        "longitude": [
+            75.07,
+            80.09
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            27.63,
+            16.78
+        ],
+        "longitude": [
+            71.7,
+            81.79
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            9.37,
+            24.98
+        ],
+        "longitude": [
+            86.29,
+            86.32
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.44,
+            28.35
+        ],
+        "longitude": [
+            83.75,
+            89.9
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.48,
+            10.59
+        ],
+        "longitude": [
+            71.2,
+            86.46
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.88,
+            18.05
+        ],
+        "longitude": [
+            89.68,
+            79.66
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            16.36,
+            24.29
+        ],
+        "longitude": [
+            75.98,
+            89.42
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            21.56,
+            8.65
+        ],
+        "longitude": [
+            87.84,
+            85.84
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            11.22,
+            27.84
+        ],
+        "longitude": [
+            76.72,
+            70.96
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            18.34,
+            10.3
+        ],
+        "longitude": [
+            88.31,
+            90.83
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.37,
+            17.15
+        ],
+        "longitude": [
+            73.42,
+            86.74
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            28.91,
+            23.42
+        ],
+        "longitude": [
+            74.06,
+            90.07
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            24.08,
+            13.21
+        ],
+        "longitude": [
+            74.35,
+            78.28
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            28.9,
+            14.51
+        ],
+        "longitude": [
+            74.82,
+            84.79
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.62,
+            16.36
+        ],
+        "longitude": [
+            76.84,
+            70.57
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.26,
+            24.94
+        ],
+        "longitude": [
+            90.36,
+            88.91
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            16.67,
+            28.1
+        ],
+        "longitude": [
+            72.39,
+            71.29
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            29.01,
+            24.36
+        ],
+        "longitude": [
+            88.42,
+            74.73
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            26.23,
+            30.26
+        ],
+        "longitude": [
+            82.18,
+            89.73
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            15.79,
+            8.64
+        ],
+        "longitude": [
+            73.33,
+            74.18
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            28.52,
+            20.37
+        ],
+        "longitude": [
+            72.52,
+            89.17
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            29.35,
+            13.03
+        ],
+        "longitude": [
+            87.46,
+            71.62
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            13.48,
+            18.46
+        ],
+        "longitude": [
+            87.64,
+            78.47
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            10.12,
+            14.04
+        ],
+        "longitude": [
+            72.34,
+            86.11
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            29.52,
+            22.41
+        ],
+        "longitude": [
+            81.06,
+            73.27
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            19.55,
+            29.54
+        ],
+        "longitude": [
+            83.08,
+            82.3
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            29.13,
+            15.95
+        ],
+        "longitude": [
+            85.46,
+            70.05
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            22.87,
+            27.65
+        ],
+        "longitude": [
+            73.73,
+            88.94
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            15.67,
+            13.38
+        ],
+        "longitude": [
+            71.78,
+            72.91
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            16.69,
+            20.47
+        ],
+        "longitude": [
+            72.74,
+            80.41
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.43,
+            8.4
+        ],
+        "longitude": [
+            90.01,
+            85.31
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            11.77,
+            29.23
+        ],
+        "longitude": [
+            78.9,
+            70.3
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            26.88,
+            18.2
+        ],
+        "longitude": [
+            76,
+            79.37
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            21.06,
+            12.57
+        ],
+        "longitude": [
+            88.78,
+            85.23
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            22.86,
+            25
+        ],
+        "longitude": [
+            78.38,
+            79.03
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.21,
+            15.06
+        ],
+        "longitude": [
+            81.8,
+            75.71
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            11.44,
+            29.81
+        ],
+        "longitude": [
+            77.18,
+            85.6
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.46,
+            9.92
+        ],
+        "longitude": [
+            87.37,
+            70.34
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            13.11,
+            28.91
+        ],
+        "longitude": [
+            84.2,
+            85.62
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            20.13,
+            14.8
+        ],
+        "longitude": [
+            72.65,
+            88.66
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            27.81,
+            22.6
+        ],
+        "longitude": [
+            78.91,
+            89.18
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            29.21,
+            16.25
+        ],
+        "longitude": [
+            90.84,
+            76.28
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            28.41,
+            22.06
+        ],
+        "longitude": [
+            74.26,
+            87.24
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.01,
+            18.67
+        ],
+        "longitude": [
+            74.37,
+            73.1
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            28.92,
+            21.08
+        ],
+        "longitude": [
+            73.12,
+            86.5
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            11.81,
+            25.65
+        ],
+        "longitude": [
+            76.4,
+            81.68
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            26.95,
+            26.56
+        ],
+        "longitude": [
+            70.28,
+            75.36
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            10.59,
+            26.03
+        ],
+        "longitude": [
+            85.43,
+            87.74
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            15.7,
+            28.38
+        ],
+        "longitude": [
+            75.98,
+            82.33
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            24.61,
+            10.6
+        ],
+        "longitude": [
+            72.01,
+            85.13
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            18.77,
+            17.46
+        ],
+        "longitude": [
+            71.58,
+            78.21
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            22.03,
+            12.14
+        ],
+        "longitude": [
+            73.64,
+            86.11
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            16.97,
+            22.1
+        ],
+        "longitude": [
+            89.54,
+            80.21
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.29,
+            22.88
+        ],
+        "longitude": [
+            78.98,
+            80.31
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            26.44,
+            18.34
+        ],
+        "longitude": [
+            88.26,
+            85.39
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.18,
+            11.57
+        ],
+        "longitude": [
+            77.09,
+            82.17
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            11.78,
+            22.66
+        ],
+        "longitude": [
+            86.79,
+            87.15
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.43,
+            21.62
+        ],
+        "longitude": [
+            74.39,
+            75.89
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            29.63,
+            13.63
+        ],
+        "longitude": [
+            71.51,
+            77.86
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.73,
+            9.68
+        ],
+        "longitude": [
+            88.45,
+            75.28
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            30.4,
+            18.09
+        ],
+        "longitude": [
+            75.19,
+            80.81
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            21.58,
+            9.88
+        ],
+        "longitude": [
+            80.48,
+            83.96
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.82,
+            21.54
+        ],
+        "longitude": [
+            81.72,
+            75.26
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            10.77,
+            15.88
+        ],
+        "longitude": [
+            78.57,
+            85.07
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            21.7,
+            30.75
+        ],
+        "longitude": [
+            88.68,
+            90.49
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            17.88,
+            11.41
+        ],
+        "longitude": [
+            77.13,
+            88.83
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            22.59,
+            11.95
+        ],
+        "longitude": [
+            82.97,
+            82.31
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            19.63,
+            9.92
+        ],
+        "longitude": [
+            84.37,
+            74.55
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            13.37,
+            15.86
+        ],
+        "longitude": [
+            76.41,
+            76.11
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.66,
+            15.91
+        ],
+        "longitude": [
+            85.54,
+            71.33
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.55,
+            14.07
+        ],
+        "longitude": [
+            80.22,
+            80.98
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.77,
+            10.64
+        ],
+        "longitude": [
+            80.5,
+            70.51
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            21.71,
+            24.37
+        ],
+        "longitude": [
+            82.9,
+            85.61
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            23.11,
+            19.03
+        ],
+        "longitude": [
+            76.07,
+            83.31
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            14.79,
+            19.11
+        ],
+        "longitude": [
+            86.79,
+            71.88
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            20.32,
+            23.28
+        ],
+        "longitude": [
+            80.75,
+            74.84
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            14.09,
+            10.33
+        ],
+        "longitude": [
+            80.85,
+            84.34
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            18.73,
+            17.84
+        ],
+        "longitude": [
+            75.38,
+            88.58
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.05,
+            9.59
+        ],
+        "longitude": [
+            88.71,
+            81.41
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            14.92,
+            13.83
+        ],
+        "longitude": [
+            89.16,
+            73.53
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            25.47,
+            29.17
+        ],
+        "longitude": [
+            73.2,
+            82.37
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            11.92,
+            23.86
+        ],
+        "longitude": [
+            71.04,
+            79.04
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            10.35,
+            9.85
+        ],
+        "longitude": [
+            89.16,
+            80.86
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            13.94,
+            30.3
+        ],
+        "longitude": [
+            84.51,
+            85.36
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            29.09,
+            27.97
+        ],
+        "longitude": [
+            87.83,
+            88.55
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            18.22,
+            18.93
+        ],
+        "longitude": [
+            78.02,
+            71.69
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            9.36,
+            27.54
+        ],
+        "longitude": [
+            80.26,
+            71.67
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            22.54,
+            24.01
+        ],
+        "longitude": [
+            70.51,
+            81.81
+        ],
+        "vegetation": "forest"
+    },
+    {
+        "latitude": [
+            12.27,
+            25.15
+        ],
+        "longitude": [
+            72,
+            72.82
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            11.84,
+            19.24
+        ],
+        "longitude": [
+            87.03,
+            70.26
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            11.22,
+            14.8
+        ],
+        "longitude": [
+            83.33,
+            88.94
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            14.43,
+            24.86
+        ],
+        "longitude": [
+            83.57,
+            85.21
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            25.96,
+            19.5
+        ],
+        "longitude": [
+            82.65,
+            76.95
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            22.08,
+            17.84
+        ],
+        "longitude": [
+            90.89,
+            85.28
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.58,
+            14.45
+        ],
+        "longitude": [
+            80.01,
+            78.72
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            22.04,
+            13.59
+        ],
+        "longitude": [
+            89.24,
+            79.3
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.97,
+            22.68
+        ],
+        "longitude": [
+            87.35,
+            75.19
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            10.65,
+            14.98
+        ],
+        "longitude": [
+            81.96,
+            78.9
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            15.02,
+            10.07
+        ],
+        "longitude": [
+            79.22,
+            70.63
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            10.12,
+            16.68
+        ],
+        "longitude": [
+            70.9,
+            83.14
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            21.21,
+            18.88
+        ],
+        "longitude": [
+            73.45,
+            81.65
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            30.74,
+            29.53
+        ],
+        "longitude": [
+            71.15,
+            85.35
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            23.86,
+            8.13
+        ],
+        "longitude": [
+            73.18,
+            84.74
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            25.96,
+            16.07
+        ],
+        "longitude": [
+            70.6,
+            83.84
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.38,
+            13.11
+        ],
+        "longitude": [
+            90.31,
+            90.74
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.23,
+            26.45
+        ],
+        "longitude": [
+            78.78,
+            79.72
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            10.87,
+            26.74
+        ],
+        "longitude": [
+            83.24,
+            88.56
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            17.97,
+            12.26
+        ],
+        "longitude": [
+            70.2,
+            79.88
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.95,
+            27.7
+        ],
+        "longitude": [
+            88.61,
+            76.96
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            29.85,
+            28.13
+        ],
+        "longitude": [
+            80.91,
+            86.6
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            23.68,
+            24.4
+        ],
+        "longitude": [
+            76.98,
+            71.46
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            9.31,
+            13.36
+        ],
+        "longitude": [
+            79.95,
+            82.07
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            17.56,
+            25.39
+        ],
+        "longitude": [
+            85.47,
+            78.13
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.05,
+            21.83
+        ],
+        "longitude": [
+            84.66,
+            77.46
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            19.68,
+            20.23
+        ],
+        "longitude": [
+            75.24,
+            87.85
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            8.47,
+            12.48
+        ],
+        "longitude": [
+            83.43,
+            90.46
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            19.66,
+            9.1
+        ],
+        "longitude": [
+            89.03,
+            76.29
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            22.51,
+            22.5
+        ],
+        "longitude": [
+            86.15,
+            74.24
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            26.04,
+            21.59
+        ],
+        "longitude": [
+            74.67,
+            75.74
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            19.82,
+            12.72
+        ],
+        "longitude": [
+            73.25,
+            70.82
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.83,
+            18.14
+        ],
+        "longitude": [
+            75.07,
+            84.11
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            11.67,
+            30.26
+        ],
+        "longitude": [
+            84.45,
+            83.59
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            12.64,
+            18.38
+        ],
+        "longitude": [
+            75.35,
+            79.32
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            26.96,
+            30.92
+        ],
+        "longitude": [
+            82.37,
+            76.69
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            29.51,
+            13.67
+        ],
+        "longitude": [
+            86.05,
+            82.83
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            25.94,
+            26.52
+        ],
+        "longitude": [
+            71.55,
+            78.54
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            9.22,
+            28.27
+        ],
+        "longitude": [
+            70.68,
+            90.52
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            19.62,
+            27.64
+        ],
+        "longitude": [
+            70.15,
+            84.61
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            15.31,
+            18.1
+        ],
+        "longitude": [
+            71.19,
+            86.19
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            10.19,
+            18.89
+        ],
+        "longitude": [
+            85.24,
+            80.31
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            14.22,
+            8.88
+        ],
+        "longitude": [
+            89.9,
+            88.88
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.48,
+            20.14
+        ],
+        "longitude": [
+            89.69,
+            85.26
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            22.72,
+            20.89
+        ],
+        "longitude": [
+            70.61,
+            73.4
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            11.13,
+            26
+        ],
+        "longitude": [
+            73.69,
+            77
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            13.47,
+            15.04
+        ],
+        "longitude": [
+            70.59,
+            89.62
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            14.98,
+            16.3
+        ],
+        "longitude": [
+            84.73,
+            76.72
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.74,
+            16.99
+        ],
+        "longitude": [
+            89.43,
+            72.16
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            28.9,
+            29.26
+        ],
+        "longitude": [
+            72.56,
+            86.2
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            29.02,
+            14.02
+        ],
+        "longitude": [
+            88.45,
+            74.17
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            15.84,
+            18.42
+        ],
+        "longitude": [
+            85.38,
+            88.22
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            25.07,
+            20.93
+        ],
+        "longitude": [
+            78.18,
+            72.95
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            9.56,
+            24.22
+        ],
+        "longitude": [
+            74.85,
+            87.26
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            22.79,
+            12.46
+        ],
+        "longitude": [
+            76.77,
+            87.31
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            19.13,
+            16.39
+        ],
+        "longitude": [
+            85.29,
+            84.7
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.89,
+            16.01
+        ],
+        "longitude": [
+            74,
+            70.99
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            19.86,
+            24.51
+        ],
+        "longitude": [
+            84.88,
+            79.86
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.28,
+            27.27
+        ],
+        "longitude": [
+            88.83,
+            80.43
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            30.23,
+            29.4
+        ],
+        "longitude": [
+            81.58,
+            88.45
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            15.03,
+            14.28
+        ],
+        "longitude": [
+            89.93,
+            81.58
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            14.22,
+            15.98
+        ],
+        "longitude": [
+            76.64,
+            80.71
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.93,
+            15.08
+        ],
+        "longitude": [
+            82.44,
+            82.5
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            28.76,
+            8.57
+        ],
+        "longitude": [
+            86.78,
+            76.63
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            14.18,
+            8.35
+        ],
+        "longitude": [
+            83.84,
+            73.49
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            30.41,
+            20.92
+        ],
+        "longitude": [
+            89.64,
+            90.82
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            29.31,
+            13.76
+        ],
+        "longitude": [
+            86.8,
+            89.53
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            9.6,
+            20.27
+        ],
+        "longitude": [
+            76.02,
+            79.75
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            16.76,
+            11.54
+        ],
+        "longitude": [
+            75.89,
+            72.54
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.91,
+            11.73
+        ],
+        "longitude": [
+            83.63,
+            74.74
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            22.24,
+            30.54
+        ],
+        "longitude": [
+            88.85,
+            84.31
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            16.41,
+            17.28
+        ],
+        "longitude": [
+            84.55,
+            77.36
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.39,
+            11.78
+        ],
+        "longitude": [
+            83.12,
+            81.32
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            9.86,
+            29.91
+        ],
+        "longitude": [
+            86.67,
+            85.47
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            15.26,
+            21.53
+        ],
+        "longitude": [
+            86.51,
+            76.55
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            25.19,
+            14.98
+        ],
+        "longitude": [
+            73.84,
+            77.42
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            8.2,
+            21.2
+        ],
+        "longitude": [
+            80.31,
+            71.25
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.81,
+            27.94
+        ],
+        "longitude": [
+            85.38,
+            82.81
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            23.31,
+            19.74
+        ],
+        "longitude": [
+            84.01,
+            74.43
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            19.96,
+            21.14
+        ],
+        "longitude": [
+            77.77,
+            84.92
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.61,
+            26.9
+        ],
+        "longitude": [
+            80.31,
+            74.21
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            17.37,
+            26.1
+        ],
+        "longitude": [
+            86.9,
+            90.41
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            17.49,
+            15.16
+        ],
+        "longitude": [
+            82.97,
+            76.6
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            10.31,
+            27.8
+        ],
+        "longitude": [
+            70.66,
+            78.3
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            9.26,
+            9.52
+        ],
+        "longitude": [
+            76.34,
+            75.15
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            23.58,
+            10.46
+        ],
+        "longitude": [
+            78.52,
+            74.27
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.71,
+            24.45
+        ],
+        "longitude": [
+            86.81,
+            84.91
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            14.76,
+            11.87
+        ],
+        "longitude": [
+            83.88,
+            81.65
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            23.39,
+            23
+        ],
+        "longitude": [
+            78.38,
+            77.65
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            30.87,
+            29.34
+        ],
+        "longitude": [
+            72.93,
+            88.62
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            25.69,
+            30.52
+        ],
+        "longitude": [
+            90.15,
+            70.44
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            23.84,
+            26.89
+        ],
+        "longitude": [
+            81.97,
+            87.67
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            15.11,
+            21.1
+        ],
+        "longitude": [
+            89.99,
+            71.81
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            29.21,
+            11.53
+        ],
+        "longitude": [
+            78.04,
+            81.17
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            27.47,
+            26.15
+        ],
+        "longitude": [
+            90.46,
+            85.59
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            15.72,
+            12.75
+        ],
+        "longitude": [
+            76.25,
+            76.29
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            18.99,
+            12.36
+        ],
+        "longitude": [
+            73.69,
+            82.75
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            29.17,
+            13.65
+        ],
+        "longitude": [
+            73.09,
+            82.11
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            24.06,
+            14.85
+        ],
+        "longitude": [
+            78.3,
+            89.55
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            21.05,
+            10.46
+        ],
+        "longitude": [
+            74.62,
+            81.3
+        ],
+        "vegetation": "grassland"
+    },
+    {
+        "latitude": [
+            29.17,
+            8.79
+        ],
+        "longitude": [
+            83.23,
+            75.98
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            22.01,
+            23.18
+        ],
+        "longitude": [
+            71.83,
+            88.28
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            13.49,
+            10.18
+        ],
+        "longitude": [
+            79.76,
+            90.84
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            27.71,
+            8.48
+        ],
+        "longitude": [
+            82.24,
+            81.61
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.03,
+            15.08
+        ],
+        "longitude": [
+            76.36,
+            90.88
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            8.12,
+            11.99
+        ],
+        "longitude": [
+            70.92,
+            85.55
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            9.03,
+            29.97
+        ],
+        "longitude": [
+            89.24,
+            79.67
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            10.74,
+            28.46
+        ],
+        "longitude": [
+            84.97,
+            80.64
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            20.64,
+            24.91
+        ],
+        "longitude": [
+            83.08,
+            79.12
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            18.22,
+            22.85
+        ],
+        "longitude": [
+            77.11,
+            73.7
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            24.15,
+            9.84
+        ],
+        "longitude": [
+            74.22,
+            84.4
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            14.91,
+            22.56
+        ],
+        "longitude": [
+            78.32,
+            73.89
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            19.23,
+            21.58
+        ],
+        "longitude": [
+            83.11,
+            86.58
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.27,
+            18.85
+        ],
+        "longitude": [
+            88.16,
+            86.54
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.08,
+            11.21
+        ],
+        "longitude": [
+            80.02,
+            89.48
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            21.67,
+            29.76
+        ],
+        "longitude": [
+            70.52,
+            83.31
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            29.4,
+            14.78
+        ],
+        "longitude": [
+            78.98,
+            74.02
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            22.62,
+            18.04
+        ],
+        "longitude": [
+            89.15,
+            88.22
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            15.22,
+            12.19
+        ],
+        "longitude": [
+            71.4,
+            74.75
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            12.4,
+            14.3
+        ],
+        "longitude": [
+            82.13,
+            70.66
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            25.87,
+            8.53
+        ],
+        "longitude": [
+            79.31,
+            75.17
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            11.08,
+            18.09
+        ],
+        "longitude": [
+            74.91,
+            84.09
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            20.09,
+            11.79
+        ],
+        "longitude": [
+            88.27,
+            73.48
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            28.06,
+            12.22
+        ],
+        "longitude": [
+            87.77,
+            72.44
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            17.18,
+            9.12
+        ],
+        "longitude": [
+            83.51,
+            76.31
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            18.33,
+            28.63
+        ],
+        "longitude": [
+            74.79,
+            78.14
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            8.68,
+            13.97
+        ],
+        "longitude": [
+            75.29,
+            75.34
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            12.06,
+            20.52
+        ],
+        "longitude": [
+            84.03,
+            72.72
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.17,
+            15.59
+        ],
+        "longitude": [
+            86.7,
+            83.22
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            19.36,
+            30.86
+        ],
+        "longitude": [
+            72.66,
+            73.91
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            26.92,
+            30.37
+        ],
+        "longitude": [
+            71.56,
+            70.37
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            26.47,
+            22.95
+        ],
+        "longitude": [
+            72.49,
+            85.24
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            21.99,
+            22.22
+        ],
+        "longitude": [
+            74.66,
+            70.18
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            16.46,
+            18.22
+        ],
+        "longitude": [
+            85.41,
+            87.56
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            12.24,
+            19.44
+        ],
+        "longitude": [
+            81.48,
+            85.97
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.72,
+            17.57
+        ],
+        "longitude": [
+            82.86,
+            85.07
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            8.97,
+            29.1
+        ],
+        "longitude": [
+            78.14,
+            90.45
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            17.54,
+            14.42
+        ],
+        "longitude": [
+            82.81,
+            86.63
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            28.66,
+            19.88
+        ],
+        "longitude": [
+            90.23,
+            78.28
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            14.6,
+            8.68
+        ],
+        "longitude": [
+            74.5,
+            90.92
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            15.52,
+            8.4
+        ],
+        "longitude": [
+            80.51,
+            88.41
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            17.07,
+            29.47
+        ],
+        "longitude": [
+            90.34,
+            87.16
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            18.54,
+            26.05
+        ],
+        "longitude": [
+            84.61,
+            83.98
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            27.91,
+            9.59
+        ],
+        "longitude": [
+            76.21,
+            74.96
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            28.8,
+            22.69
+        ],
+        "longitude": [
+            78.24,
+            88.2
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            24.57,
+            26.56
+        ],
+        "longitude": [
+            76.47,
+            88.16
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            13.64,
+            15.36
+        ],
+        "longitude": [
+            74.09,
+            71.35
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            21.79,
+            13.2
+        ],
+        "longitude": [
+            89.77,
+            87.49
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            19.37,
+            28.35
+        ],
+        "longitude": [
+            78.23,
+            77.37
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            21.18,
+            26.02
+        ],
+        "longitude": [
+            73.97,
+            76.15
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            9.74,
+            25.79
+        ],
+        "longitude": [
+            84.49,
+            84.01
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            25.54,
+            15.86
+        ],
+        "longitude": [
+            81.13,
+            90.6
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            10.74,
+            13.6
+        ],
+        "longitude": [
+            79.59,
+            73.83
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            21.72,
+            22.41
+        ],
+        "longitude": [
+            71.15,
+            87.51
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            12.13,
+            25.48
+        ],
+        "longitude": [
+            76.73,
+            71.83
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            12.49,
+            18.41
+        ],
+        "longitude": [
+            89.38,
+            75.63
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            29.41,
+            15.59
+        ],
+        "longitude": [
+            77.97,
+            70.75
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            8.56,
+            19.87
+        ],
+        "longitude": [
+            87.55,
+            82.19
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            13.42,
+            8.86
+        ],
+        "longitude": [
+            84.49,
+            88.22
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            9.12,
+            23.92
+        ],
+        "longitude": [
+            87.62,
+            82.08
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.15,
+            21.24
+        ],
+        "longitude": [
+            88.57,
+            88.96
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            24.07,
+            14.33
+        ],
+        "longitude": [
+            90.39,
+            87.33
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            18.2,
+            18.4
+        ],
+        "longitude": [
+            83.46,
+            74
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            21.94,
+            15.75
+        ],
+        "longitude": [
+            82.26,
+            76.89
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            17.12,
+            13.03
+        ],
+        "longitude": [
+            79.22,
+            82.66
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            23.51,
+            10.36
+        ],
+        "longitude": [
+            87.86,
+            84.05
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            24.45,
+            8.76
+        ],
+        "longitude": [
+            75.64,
+            74.29
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            25.2,
+            27.47
+        ],
+        "longitude": [
+            81.72,
+            83.13
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            22.66,
+            13.71
+        ],
+        "longitude": [
+            80.71,
+            80.58
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            17.4,
+            20.59
+        ],
+        "longitude": [
+            90.49,
+            86.11
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            29.68,
+            12.09
+        ],
+        "longitude": [
+            85.99,
+            77.49
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            17.85,
+            30.55
+        ],
+        "longitude": [
+            78.41,
+            78.2
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            14.47,
+            9.79
+        ],
+        "longitude": [
+            70.89,
+            83.46
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            23.91,
+            8.73
+        ],
+        "longitude": [
+            81.44,
+            86.49
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            10.19,
+            26.68
+        ],
+        "longitude": [
+            76.09,
+            77.58
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            13.24,
+            30.75
+        ],
+        "longitude": [
+            72.69,
+            77.97
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            10.37,
+            28.01
+        ],
+        "longitude": [
+            89.14,
+            82.13
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            18.15,
+            26.77
+        ],
+        "longitude": [
+            89.06,
+            86.12
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            26.09,
+            23.88
+        ],
+        "longitude": [
+            87.36,
+            78.81
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            26.43,
+            21.4
+        ],
+        "longitude": [
+            72.79,
+            78.64
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.77,
+            14.08
+        ],
+        "longitude": [
+            71.6,
+            82.97
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            24.03,
+            28.51
+        ],
+        "longitude": [
+            78.32,
+            86.8
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            29.12,
+            9.91
+        ],
+        "longitude": [
+            89.35,
+            76.68
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            30.13,
+            9
+        ],
+        "longitude": [
+            84.14,
+            76.18
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            14.39,
+            26.64
+        ],
+        "longitude": [
+            84.29,
+            80.44
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            19.92,
+            24.41
+        ],
+        "longitude": [
+            71.22,
+            86.23
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            9.18,
+            22.52
+        ],
+        "longitude": [
+            82.01,
+            79.01
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            11.16,
+            26.52
+        ],
+        "longitude": [
+            71.95,
+            74
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            10.93,
+            15.15
+        ],
+        "longitude": [
+            76,
+            89.76
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            10.34,
+            28.15
+        ],
+        "longitude": [
+            71.28,
+            85.09
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            26.71,
+            24.92
+        ],
+        "longitude": [
+            70.99,
+            75.22
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            8.83,
+            26.66
+        ],
+        "longitude": [
+            79.77,
+            79.4
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            11.14,
+            28.43
+        ],
+        "longitude": [
+            89.91,
+            86.46
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            19.12,
+            17.8
+        ],
+        "longitude": [
+            76.6,
+            90.46
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            14.85,
+            22.42
+        ],
+        "longitude": [
+            73.72,
+            83.47
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            28.33,
+            24.73
+        ],
+        "longitude": [
+            90.54,
+            76.22
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            16.9,
+            27.69
+        ],
+        "longitude": [
+            70.79,
+            71.03
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            14.89,
+            24.04
+        ],
+        "longitude": [
+            70.51,
+            85.05
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            12.73,
+            8.18
+        ],
+        "longitude": [
+            87.59,
+            88.15
+        ],
+        "vegetation": "shrubland"
+    },
+    {
+        "latitude": [
+            13.02,
+            18.87
+        ],
+        "longitude": [
+            73.93,
+            89.71
+        ],
+        "vegetation": "shrubland"
+    }
+]
