@@ -65,7 +65,3 @@ body {
 .form-container button:hover {
     background-color: #555;
 }
-.form-container p.error {
-    color: red;
-    margin-top: 10px;
-}
