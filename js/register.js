@@ -41,3 +41,5 @@ function showError(error) {
             break;
     }
 }
+
+getLocation();
