@@ -2,21 +2,54 @@
 session_start();
 include 'config.php';
 
+$error="";
+
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $username = $_POST['username'];
+    $email = $_POST['email'];
     $password = $_POST['password'];
     $role = $_POST['role'];
     $location = $_POST['location'];
     $latitude = $_POST['latitude'];
     $longitude = $_POST['longitude'];
     $contact_number = $_POST['contact_number'];
+
+    $username = mysqli_real_escape_string($conn, $username);
+    $email = mysqli_real_escape_string($conn, $email);
+    $password = mysqli_real_escape_string($conn, $password);
+    $role = mysqli_real_escape_string($conn, $role);
+    $location = mysqli_real_escape_string($conn, $location);
+    $latitude = mysqli_real_escape_string($conn, $latitude);
+    $longitude = mysqli_real_escape_string($conn, $longitude);
     $contact_number = mysqli_real_escape_string($conn, $contact_number);
-    $query = "INSERT INTO users (username, password, role, location, latitude, longitude, contact) VALUES ('$username', '$password', '$role', '$location', '$latitude', '$longitude', '$contact_number')";
-    if ($conn->query($query) === TRUE) {
-        header('Location: login.php');
-        exit;
-    } else {
-        $error = "Error: " . $query . "<br>" . $conn->error;
+
+    if (!preg_match("/^[A-Za-z]+$/", $username)) {
+        $error = "Name should only contain English alphabets.";
+    }
+
+    if (!preg_match("/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{6,}$/", $password)) {
+        $error = "Password must be at least 6 characters long and contain at least one uppercase letter, one lowercase letter, one number, and one special character.";
+    }
+
+    $email_check_query = "SELECT * FROM users WHERE email='$email' LIMIT 1";
+    $result = $conn->query($email_check_query);
+
+    if ($result->num_rows > 0) {
+        $error = "Email is already registered.";
+    }
+
+    if (!preg_match("/^\d{10}$/", $contact_number)) {
+        $error = "Contact number must be exactly 10 digits.";
+    }
+
+    if (!isset($error)) {
+        $query = "INSERT INTO users (username, password, email, role, location, latitude, longitude, contact) VALUES ('$username', '$password', '$email', '$role', '$location', '$latitude', '$longitude', '$contact_number')";
+        if ($conn->query($query) === TRUE) {
+            header('Location: login.php');
+            exit;
+        } else {
+            $error = "Error: " . $query . "<br>" . $conn->error;
+        }
     }
 }
 ?>
@@ -39,7 +72,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <div class='form-container'>
         <h1>Register</h1>
         <form method="post">
-            <label for="username">Username:</label>
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="username">Name:</label>
             <input type="text" id="username" name="username" required>
             <label for="password">Password:</label>
             <input type="password" id="password" name="password" required>
@@ -56,13 +91,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <label for="contact_number">Contact Number:</label>
             <input type="text" id="contact_number" name="contact_number" required>
             <button type="submit">Register</button>
-            <?php if (isset($error)) { echo "<p>$error</p>"; } ?>
         </form>
     </div>
 
     <script src="js/register.js"></script>
     <script>
-        getLocation();
+        <?php if (!empty($error)) { ?>
+            alert('<?php echo $error; ?>');
+        <?php } ?>
     </script>
 </body>
 </html>
