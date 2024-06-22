@@ -39,7 +39,7 @@ $services = $conn->query($services_query);
             <a href="logout.php">Logout</a>
         </nav>
     </header>
-    <h1>Welcome, <?php echo $user['username']; ?></h1>
+    <h1>Welcome, <?php echo $user['username']; ?> !!</h1>
     <p>Location: <span id="user-location">Fetching...</span></p>
     <p>Weather: <span id="weather">Fetching...</span></p>
 
