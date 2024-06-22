@@ -31,7 +31,7 @@ $historical_fires = $conn->query($historical_query);
             <a href="logout.php">Logout</a>
         </nav>
     </header>
-    <h1>Welcome, <?php echo $user['username']; ?></h1>
+    <h1>Welcome, <?php echo $user['username']; ?> !!</h1>
     <p>Your location: <span id="user-location">Fetching...</span></p>
     <p>Weather: <span id="weather">Fetching...</span></p>
 
