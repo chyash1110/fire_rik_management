@@ -50,6 +50,7 @@ $historical_fires = $conn->query($historical_query);
     <?php if ($incidents->num_rows > 0) {
         while ($incident = $incidents->fetch_assoc()) { ?>
             <li><?php echo $incident['location']; ?> -- Time to reach: <span class="spread-time" data-incident-id="<?php echo $incident['id']; ?>">Calculating...</span></li>
+            <li><?php echo 'Reported Active: ' . $incident['created_at'] . '<br>' ?></li>
         <?php }
     } else { ?>
         <li>No records found</li>
