@@ -88,6 +88,38 @@ curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -
 - `js/`: JavaScript files for the web application.
 - `*.php`: PHP scripts for various functionalities like adding incidents, managing transportation, and dashboards.
 
+## Screenshots
+
+### Home Page
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/7e7b5f78-5f0d-4492-906e-61d557c88648)
+
+### Registration
+
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/1bcf9bb0-82ba-4085-ab9d-f25febdae85b)
+
+### Login
+
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/cb36dc4a-deb5-4f78-ae57-a474658915b7)
+
+### General Public DashBoard
+
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/e6db6db1-3296-4be6-af40-43b5599d3d67)
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/cfd23a78-fc25-477a-a063-994501a7bbd1)
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/5130b10e-c1cf-4a49-ad21-c0cb66f246f5)
+
+### Transportation
+
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/e79f9960-3c02-40c5-85fc-8461692611d4)
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/e334f01f-7ae8-483a-99b6-04e6f283065d)
+
+
+### Forest Department
+
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/6d592f7f-58b2-4871-872c-574891dc38bb)
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/85d1e400-41e3-4d97-9a98-c6b749e6c201)
+![image](https://github.com/chyash1110/fire_risk_management/assets/118417410/2738358e-16d1-45da-b113-98696ef61f9c)
+
+
 ## Contributing
 
 Contributions are welcome. Please fork the repository and create a pull request with your changes.
